@@ -1,8 +1,12 @@
 # suerssk
 
-## Hi there 👋 😄
+## Hi, Welcome! 👋 😄
 
-## looking for a job with font_end... 🤔
+## looking for a job with font_end... 🤩
+
+1. 热爱思考 🤩
+
+2. 喜欢分享 🧐
 
 <!--
 **suerssk/suerssk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Status
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suerssk)](https://github.com/anuraghazra/github-readme-stats)
