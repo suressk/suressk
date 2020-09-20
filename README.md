@@ -2,11 +2,9 @@
 
 ## Hi, Welcome! 👋 😄
 
-## looking for a job with font_end... 🤩
+## Find a favorite front-end job... 🤩
 
-1. 热爱思考 🤩
-
-2. 喜欢分享 🧐
+Love to think 🤩 And like to share 🧐
 
 <!--
 **suerssk/suerssk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
