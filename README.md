@@ -4,7 +4,7 @@
 
 ## Find a favorite front-end job... 🤩
 
-Love to think 🤩 And like to share 🧐
+think 🤩 and share 🧐 is important
 
 <!--
 **suerssk/suerssk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
