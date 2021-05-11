@@ -1,15 +1,17 @@
-# suerssk
+# suressk
 
 ## Hi, Welcome! 👋 😄
 
-## Find a favorite front-end job... 🤩
+My own website: [suressk.com](http://suressk.com)
+
+## Wanna to find a front-end job... 🤩
 
 Think 🤩 and Share 🧐
 
-<!--
-**suerssk/suerssk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**suressk/suressk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started (you can guess...😄):
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,8 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ## Status
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suerssk)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suressk)](https://github.com/anuraghazra/github-readme-stats)
