@@ -6,6 +6,8 @@ This is K.
 
 My own website is what I call [K.island](http://suressk.com)
 
+My `juejin` blog is [suressk](https://juejin.cn/user/3940246036945822)
+
 ## ✨ _special_ ✨
 
 🤩 🧐
