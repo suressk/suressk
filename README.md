@@ -25,6 +25,10 @@ Here are some ideas to get you started (you can guess...😄):
 
 ## Status
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suressk)](https://github.com/anuraghazra/github-readme-stats)
+![Suressk's Github Stats](https://github-readme-stats.vercel.app/api?username=suressk&layout=compact&theme=onedark)
+
+<br />
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suressk&layout=compact&theme=onedark)
 
 `It doesn't include work mailbox statistics`
