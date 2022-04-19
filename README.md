@@ -2,7 +2,7 @@
 
 ## Hi, Welcome! 👋 😄
 
-This is K.
+This is `K.`
 
 My own website is what I call [K.island](http://suressk.com)
 
@@ -14,13 +14,17 @@ My `juejin` blog is [suressk](https://juejin.cn/user/3940246036945822)
 
 Here are some ideas to get you started (you can guess...😄):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning `React`, `Taro`, `Electron` and so on...
+- 🔭 a simple vite: [sure-vite](https://github.com/suressk/sure-vite)
+- 🔭 a simple-cesium-demo with vue2: [simple-cesium-demo](https://github.com/suressk/simple-cesium-pro)
+- 🌱 I’m currently learning `React`, `Taro`, `Electron`, `vite` and so on...
+- 📫 How to reach me: `sure_ssk@outlook.com` / `sure_k@qq.com`
+
+Others...
+
+- 😄 Pronouns: K.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: `sure_ssk@outlook.com` / `sure_k@qq.com`
-- 😄 Pronouns: K.
 - ⚡ Fun fact: ...
 
 ## Used Languages or Framework
