@@ -2,7 +2,7 @@
 
 ## Hi, Welcome! 👋 😄
 
-This is `K.`
+This is `K.` (`suressk`), or call me `Saul`
 
 My own website is what I call [K.island](http://suressk.com)
 
@@ -19,6 +19,7 @@ Here are some ideas to get you started (you can guess...😄):
 - 🌱 I’m currently learning `React`, `Taro`, `Electron`, `vite` and so on...
 - 📫 How to reach me: `sure_ssk@outlook.com` / `sure_k@qq.com`
 
+<!--
 Others...
 
 - 😄 Pronouns: K.
@@ -26,6 +27,7 @@ Others...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
+-->
 
 ## Used Languages or Framework
 
