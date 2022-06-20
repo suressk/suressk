@@ -1,25 +1,23 @@
 # <div align="center">suressk</div>
 
-## Hi, Welcome! 👋 😄
+## ✨ Hi, Welcome! 👋
 
-This is `K.` (`suressk`), or call me `Saul`
+- This is `K.` (`suressk`), or call me `Saul`
+- My note website is [K.island](http://suressk.com)
+- My `juejin` blog is [suressk](https://juejin.cn/user/3940246036945822)
+- My 📫 : `sure_ssk@outlook.com` / `sure_k@qq.com`
 
-My own website is what I call [K.island](http://suressk.com)
-
-My `juejin` blog is [suressk](https://juejin.cn/user/3940246036945822)
-
+<!--
 ## ✨ _special_ ✨
 
-🤩 🧐
+🤩 🧐 😄
 
 Here are some ideas to get you started (you can guess...😄):
 
 - 🔭 a simple vite: [sure-vite](https://github.com/suressk/sure-vite)
 - 🔭 a simple-cesium-demo with vue2: [simple-cesium-demo](https://github.com/suressk/simple-cesium-pro)
 - 🌱 I’m currently learning `React`, `Taro`, `Electron`, `vite` and so on...
-- 📫 How to reach me: `sure_ssk@outlook.com` / `sure_k@qq.com`
 
-<!--
 Others...
 
 - 😄 Pronouns: K.
