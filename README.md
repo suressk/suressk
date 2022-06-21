@@ -2,10 +2,10 @@
 
 ## ✨ Hi, Welcome! 👋
 
-- This is `K.` (`suressk`), or call me `Saul`
-- My note website is [K.island](http://suressk.com)
-- My `juejin` blog is [suressk](https://juejin.cn/user/3940246036945822)
-- My 📫 : `sure_ssk@outlook.com` / `sure_k@qq.com`
+- I'm `K.` (`suressk`), or you can call me `Saul`
+- note website is [K.island](http://suressk.com)
+- `juejin` blog is [suressk](https://juejin.cn/user/3940246036945822)
+- 📫 : `sure_ssk@outlook.com` / `sure_k@qq.com`
 
 <!--
 ## ✨ _special_ ✨
@@ -46,4 +46,4 @@ Others...
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suressk&layout=compact&theme=onedark)
 
-`It doesn't include work mailbox statistics`
+<!-- `It doesn't include work mailbox statistics` -->
