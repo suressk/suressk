@@ -40,14 +40,8 @@ Others...
 
 ## Status
 
-<div style="display: flex; justify-content: space-between; align-items: center; width=100%;">
-  <!-- ![Suressk's Github Stats](https://github-readme-stats.vercel.app/api?username=suressk&layout=compact&theme=onedark) -->
-
-  <img style="height: 200px;" alt="Suressk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suressk&layout=compact&theme=onedark">
- 
-  <img style="height: 200px; margin-left: 10px;display: block;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suressk&layout=compact&theme=onedark">
+![Suressk's Github Stats](https://github-readme-stats.vercel.app/api?username=suressk&layout=compact&theme=onedark)
   
-  <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suressk&layout=compact&theme=onedark) -->
-</div>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suressk&layout=compact&theme=onedark)
 
 <!-- `It doesn't include work mailbox statistics` -->
