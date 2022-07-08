@@ -39,9 +39,11 @@ Others...
 </div>
 
 ## Status
+![Suressk's GitHub stats](https://github-readme-stats.vercel.app/api?username=suressk&layout=compact&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suressk&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Suressk's Github Stats](https://github-readme-stats.vercel.app/api?username=suressk&layout=compact&theme=onedark)
+<!-- ![Suressk's Github Stats](https://github-readme-stats.vercel.app/api?username=suressk&layout=compact&theme=onedark)
   
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suressk&layout=compact&theme=onedark)
 
-<!-- `It doesn't include work mailbox statistics` -->
+`It doesn't include work mailbox statistics` -->
