@@ -40,7 +40,7 @@ Others...
 
 ## Status
 ![Suressk's GitHub stats](https://github-readme-stats.vercel.app/api?username=suressk&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suressk&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suressk&hide=html&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Suressk's Github Stats](https://github-readme-stats.vercel.app/api?username=suressk&layout=compact&theme=onedark)
   
