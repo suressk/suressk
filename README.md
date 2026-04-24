@@ -3,9 +3,9 @@
 ## 👋 Hi, Welcome! I'm `K.`
 
 <!-- - I'm `K.` (`suressk`), or you can call me `Saul` -->
-- 🌏 : [K.island](http://suressk.com)
-- 📖 : [suressk](https://juejin.cn/user/3940246036945822/posts) —— `Juejin Blog`
-- 📫 : `suresskun@outlook.com` / `suresskun@qq.com`
+#### - 🌏 : `Personal Website Blog`: [K.island](http://suressk.com)
+#### - 📖 : `Juejin Blog`: [suressk](https://juejin.cn/user/3940246036945822/posts)
+#### - 📫 : `Email Addr`: `suresskun@outlook.com` / `suresskun@qq.com`
 
 <!--
 ## ✨ _special_ ✨
