@@ -72,5 +72,7 @@ Others...
 
 `It doesn't include work mailbox statistics` -->
 
+<!-- 
 ## 🚀 Github Contributed
 ![Suressk's Contributed](https://github-contrib-stats.vercel.app/suressk/contributed.svg?theme=dark)
+-->
